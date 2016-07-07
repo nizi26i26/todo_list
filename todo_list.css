@@ -1,0 +1,26 @@
+﻿#title{
+	text-align:center;
+	font-size:250%;
+}
+div.list input{
+	//display:none;
+}
+
+div.list label{
+    background: #ff0000;
+}
+
+div.list input:checked+label{
+    background: #0000ff;
+}
+
+
+#todo_input_message{
+	text-decoration:underline;
+	font-size:150%;
+}
+
+.list{
+	color:#ffffff;
+	font-size:150%;
+}
